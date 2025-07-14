@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shivam Manchanda 👋</h1>
 
 <p align="center">
-  <i>Full Stack Developer | Software Craftsman | Long-Distance Lover of Code and Coffee ☕</i>
+  <i>Full Stack Developer | Software Craftsman | Passionate Architect of Code and Conversations ☕💻"</i>
 </p>
 
 <p align="center">
