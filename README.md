@@ -15,11 +15,11 @@
 ### 🧑‍💻 About Me
 
 - 🏙️ Based in Toronto, Canada 🇨🇦
-- 🎓 Currently pursuing Software Development and working as a Software Developer
+- 🎓 Currently working as a Software Developer
 - 🚀 3+ years of experience building scalable web apps using React, Vue.js, Node.js, ASP.NET Core, MongoDB, and more
 - 🛠️ Obsessed with clean code, RESTful APIs, and elegant backend logic
 - 🧠 Agile Practitioner | TDD Believer | DevOps Curious
-- 🧳 Hoping to leave a mark on the world through code... and maybe a few 💖 Easter eggs
+- 🧳 Hoping to leave a mark on the world through code...
 
 ---
 
