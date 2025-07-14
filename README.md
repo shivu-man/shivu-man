@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shivam-manchanda" target="_blank">LinkedIn</a> • 
-  <a href="https://github.com/shivam1703" target="_blank">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/shivam-manchandaa" target="_blank">LinkedIn</a> • 
+  <a href="https://github.com/shivu-man" target="_blank">GitHub</a> • 
   <a href="mailto:shivam1703manchanda@gmail.com">Email</a>
 </p>
 
